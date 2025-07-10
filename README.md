@@ -185,10 +185,3 @@ This is a student project template. Feel free to:
 * Share creative business ideas
 * Report bugs or issues
 * Add new features for other students to use
-
-## 📄 License
-This project is for educational purposes. Students are free to use and modify for learning.
-
----
-
-**Need help?** Check the comments in the code files - they contain detailed instructions for each section you need to customize!
